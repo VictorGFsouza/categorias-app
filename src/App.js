@@ -136,7 +136,6 @@ const Categorias = () => {
         </table>
       )}
 
-      {/* Modal */}
       {modalVisible && (
         <div className="modal show d-block" style={{ background: "rgba(0,0,0,0.5)" }}>
           <div className="modal-dialog">
